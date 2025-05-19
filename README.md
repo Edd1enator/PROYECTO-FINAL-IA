@@ -189,7 +189,7 @@ translator/
 ---
 ## Link Video Presentacion
 
-- video: [video](https://drive.google.com/drive/folders/1LASNnBFyP_FaF4dVlKb6nehywwHRLEmY?usp=share_link)
+- video: [video](https://drive.google.com/drive/folders/1LASNnBFyP_FaF4dVlKb6nehywwHRLEmY?usp=share_link) 
 
 ##
   
